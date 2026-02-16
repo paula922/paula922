@@ -13,7 +13,9 @@
 
   
 <h2> About Me</h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+  <img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/paula922/paula922/6ddb51fc5564b4d53f3e059f7c4858321dce0d55/bg%2Cf8f8f8-flat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.u2.jpg" width="300" alt="Mi imagen de perfil">
+
 
 -  I’m currently studying at SENA.
   
@@ -21,7 +23,9 @@
   
 -  I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Sql, JavaScript
+-  Ask me about Sql, JavaScript
+  
+- How to reach me: paulacorderos15@gmail.com
   
 
 
