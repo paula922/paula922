@@ -11,7 +11,7 @@
 
 </div>
 
-  
+
 <h2> About Me</h2>
 
   <img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/paula922/paula922/6ddb51fc5564b4d53f3e059f7c4858321dce0d55/bg%2Cf8f8f8-flat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.u2.jpg" width="300" alt="Mi imagen de perfil">
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
-----------
+------------
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
