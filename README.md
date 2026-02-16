@@ -2,12 +2,12 @@
 
 <div align="center">
 
-### 🚀 Determinada a ser Desarrolladora
-*Mi camino en ADSO es solo el inicio de una carrera dedicada a la creación.*
-*Estoy en una búsqueda constante de conocimiento, transformando la teoría del análisis*
-*en código funcional, limpio y escalable. Mi meta es clara: ser una desarrolladora*
-*que no solo escribe líneas, sino que resuelve problemas del mundo real con tecnología.*
-*La disciplina es mi motor y la curiosidad mi brújula en este ecosistema digital.*
+### 🚀 Determined to be a Developer
+*My journey at ADSO is just the beginning of a career dedicated to creation.*
+*I am constantly seeking knowledge, transforming analysis theory*
+*into functional, clean, and scalable code. My goal is clear: to be a developer*
+*who not only writes lines of code, but also solves real-world problems with technology.*
+*Discipline is my driving force and curiosity is my compass in this digital ecosystem.*
 
 </div>
 
